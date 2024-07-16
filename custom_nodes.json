@@ -1,0 +1,18 @@
+[
+  {
+    "repo": "https://github.com/jamesWalker55/comfyui-various",
+    "commit": "ec58185 "
+  },
+  {
+    "repo": "https://github.com/cubiq/ComfyUI_essentials",
+    "commit": "c84392e "
+  },
+  {
+    "repo": "https://github.com/Fannovel16/comfyui_controlnet_aux",
+    "commit": "fc5c5c4"
+  },
+  {
+    "repo": "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes",
+    "commit": "d78b780"
+  }
+]
